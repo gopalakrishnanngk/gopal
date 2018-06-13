@@ -1,4 +1,4 @@
-num=int(input())
+num=371
 
 sum=0
 temp = num
