@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
+a=1
+b=10
 for num in range (a,b+1):
 	if num>1:
 		for i in range(2,num):
