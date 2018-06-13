@@ -1,6 +1,6 @@
-a=int(input())
-b=int(input())
-for num in range(a,b):
+y=150
+z=160
+for num in range(y,z):
 	order = len(str(num))
 	sum = 0
 	temp = num
