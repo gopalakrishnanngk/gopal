@@ -1,4 +1,4 @@
-num=11
+num=int(input())
 
 if num>1:
 
