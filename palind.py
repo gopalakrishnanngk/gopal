@@ -14,7 +14,7 @@ def ispalindrome(s):
 	
         return -1
 
-s="1221"
+s="121"
 
 y=ispalindrome(s) 
    
