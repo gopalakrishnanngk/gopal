@@ -1,5 +1,5 @@
-y=150
-z=160
+y=int(input())
+z=int(input())
 for num in range(y,z):
 	order = len(str(num))
 	sum = 0
