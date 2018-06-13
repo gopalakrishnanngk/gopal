@@ -1,8 +1,8 @@
-x=4
+x=2
 
 print(x)
 
-y=2
+y=3
 
 print(y)
 
