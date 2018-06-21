@@ -4,4 +4,5 @@ def arithsum(n,a,d):
 n=int(input())
 a=int(input())
 d=int(input())
+print(n, a, d)
 print(int(arithsum(n,a,d)))
