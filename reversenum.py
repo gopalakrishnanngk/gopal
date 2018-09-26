@@ -1,4 +1,4 @@
 number=raw_input()
-a=s[::-1]
+a=number[::-1]
 print(a)
 	
