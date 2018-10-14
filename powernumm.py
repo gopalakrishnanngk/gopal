@@ -1,0 +1,7 @@
+s=input()
+a=s.split()
+a="".join(a)
+n=int(a[0])
+m=int(a[1])
+num=(n**m)
+print(num)
